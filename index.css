@@ -1,4 +1,12 @@
-#image {
-    width: 100%;
+.images {
+    width: 640px;
+    height: 496px;
+}
+
+.clicks {
     margin-bottom: 10px;
+}
+
+h2 {
+    margin-bottom: -3px;
 }
